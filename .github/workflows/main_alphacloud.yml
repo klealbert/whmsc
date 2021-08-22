@@ -56,5 +56,5 @@
           with:
             app-name: 'alphacloud'
             slot-name: 'production'
-            publish-profile: ${{ secrets.AzureAppService_PublishProfile_97bf5e019c34498fa2311b41f2037596 }}
+            publish-profile: ${{ secrets.AzureAppService_PublishProfile_2bb1c219b5d7481294cdf80774c7c252 }}
             package: .
